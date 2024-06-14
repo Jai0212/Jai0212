@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I do card magic**
 
-- 🌐 My personal website **https://jai-joshi.netlify.app/**
+- 🌐 My personal website **https://jai-joshi.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
